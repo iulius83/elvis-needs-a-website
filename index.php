@@ -1,3 +1,5 @@
+<!-- php does not work! -->
+
 <?php
 
 // returns a random element from the array
